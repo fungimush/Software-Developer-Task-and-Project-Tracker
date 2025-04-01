@@ -1,1 +1,1 @@
-Deployed at https://v0-developer-task-tracker.vercel.app/
+An app to track what each software developer is working on 
